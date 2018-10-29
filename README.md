@@ -1,0 +1,2 @@
+# Table
+2. Write an HTML document containing just a table rendered as shown at right. Center the table in the page, but do not specify a width. (The browser figures out how to fit things in.)  The border of the top-level table is 1 pixel, and those of the nested tables are 4 pixels. The image is centered in its cell with a yellow background.  The grades are centered in their cells. To cause the text in the right column to wrap where it does, I specified a width of 150 pixels for the cell in the bottom right.
